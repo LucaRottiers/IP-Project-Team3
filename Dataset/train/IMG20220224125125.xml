@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>IMG20220224125125.jpg</filename>
+	<path>C:\Users\Luca\Downloads\Dataset\train\IMG20220224125125.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3222</width>
+		<height>2423</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tapemeasure</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>415</xmin>
+			<ymin>559</ymin>
+			<xmax>2464</xmax>
+			<ymax>1808</ymax>
+		</bndbox>
+	</object>
+</annotation>

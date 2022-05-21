@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>IMG20220224125315.jpg</filename>
+	<path>C:\Users\Luca\Downloads\Dataset\train\IMG20220224125315.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3046</width>
+		<height>2290</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>headphones</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>141</xmin>
+			<ymin>421</ymin>
+			<xmax>2915</xmax>
+			<ymax>2127</ymax>
+		</bndbox>
+	</object>
+</annotation>

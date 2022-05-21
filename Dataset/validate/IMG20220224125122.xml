@@ -1,0 +1,26 @@
+<annotation>
+	<folder>validate</folder>
+	<filename>IMG20220224125122.jpg</filename>
+	<path>C:\Users\Luca\Downloads\Dataset\validate\IMG20220224125122.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2452</width>
+		<height>1844</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tapemeasure</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>831</xmin>
+			<ymin>638</ymin>
+			<xmax>1840</xmax>
+			<ymax>1510</ymax>
+		</bndbox>
+	</object>
+</annotation>

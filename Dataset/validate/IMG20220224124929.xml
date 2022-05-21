@@ -1,0 +1,26 @@
+<annotation>
+	<folder>validate</folder>
+	<filename>IMG20220224124929.jpg</filename>
+	<path>C:\Users\Luca\Downloads\Dataset\validate\IMG20220224124929.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2235</width>
+		<height>1681</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>headphones</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>767</xmin>
+			<ymin>350</ymin>
+			<xmax>1620</xmax>
+			<ymax>1208</ymax>
+		</bndbox>
+	</object>
+</annotation>
